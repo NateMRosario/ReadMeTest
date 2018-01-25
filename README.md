@@ -11,8 +11,8 @@ How do you run my app"
 A Table
 
 |Cool Podcasts|Summary|
-|:-------|:-------=|
+|:-------|:-------|
 |IMTalk|Ironman Weekly Podcast|
 |Under The Radar|Swift Dev Podcast|
-|The Uknown| Tsarion Podcast|
+|The Uknown|Tsarion Podcast|
 
