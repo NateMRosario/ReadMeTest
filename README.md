@@ -13,7 +13,7 @@ How do you run my app"
 window = etc
 embed
 ''''
-  </detail>
+  </details>
 
 
 [HomePage] (https://github.com/NateMRosario)
