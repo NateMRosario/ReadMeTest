@@ -12,8 +12,8 @@ How do you run my app"
 '''swift
 window = etc
 embed
-'''
-</detail>
+''''
+  </detail>
 
 
 [HomePage] (https://github.com/NateMRosario)
